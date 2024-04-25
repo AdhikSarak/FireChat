@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57644595957",
+    "project_id": "firechat-e9ae6",
+    "storage_bucket": "firechat-e9ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57644595957:android:09adc2a3b9593b660ee3bc",
+        "android_client_info": {
+          "package_name": "com.example.firechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxqmVPeutdWFrbSfedcpSqg11RMi3JIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
